@@ -1,0 +1,14 @@
+C:\Users\fuvis\Desktop\lesson0\example8\bin\Debug\net7.0\example8.exe
+C:\Users\fuvis\Desktop\lesson0\example8\bin\Debug\net7.0\example8.deps.json
+C:\Users\fuvis\Desktop\lesson0\example8\bin\Debug\net7.0\example8.runtimeconfig.json
+C:\Users\fuvis\Desktop\lesson0\example8\bin\Debug\net7.0\example8.dll
+C:\Users\fuvis\Desktop\lesson0\example8\bin\Debug\net7.0\example8.pdb
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.AssemblyInfoInputs.cache
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.AssemblyInfo.cs
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.csproj.CoreCompileInputs.cache
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.dll
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\refint\example8.dll
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.pdb
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\example8.genruntimeconfig.cache
+C:\Users\fuvis\Desktop\lesson0\example8\obj\Debug\net7.0\ref\example8.dll
