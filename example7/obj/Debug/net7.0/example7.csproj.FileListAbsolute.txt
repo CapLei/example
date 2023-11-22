@@ -1,0 +1,14 @@
+C:\Users\fuvis\Desktop\lesson0\example7\bin\Debug\net7.0\example7.exe
+C:\Users\fuvis\Desktop\lesson0\example7\bin\Debug\net7.0\example7.deps.json
+C:\Users\fuvis\Desktop\lesson0\example7\bin\Debug\net7.0\example7.runtimeconfig.json
+C:\Users\fuvis\Desktop\lesson0\example7\bin\Debug\net7.0\example7.dll
+C:\Users\fuvis\Desktop\lesson0\example7\bin\Debug\net7.0\example7.pdb
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.AssemblyInfoInputs.cache
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.AssemblyInfo.cs
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.csproj.CoreCompileInputs.cache
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.dll
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\refint\example7.dll
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.pdb
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\example7.genruntimeconfig.cache
+C:\Users\fuvis\Desktop\lesson0\example7\obj\Debug\net7.0\ref\example7.dll
